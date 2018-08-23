@@ -1,6 +1,6 @@
 {
   "name": "debounce-poc",
-  "homepage" : "https://github.com/thomasoniii/debounce-poc",
+  "homepage" : "https://thomasoniii.github.io/debounce-poc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
